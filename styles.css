@@ -1,0 +1,13 @@
+.top-buffer {
+	margin-top: 10px;
+}
+
+.top-buffer div {
+	margin-top: 5px;
+}
+
+.validationMessage {
+	color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
